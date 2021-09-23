@@ -1,4 +1,4 @@
-Unlinkable malleable signature scheme for identity management systems
+# PIMA: A Privacy-Preserving Identity Management System based on anUnlinkable MAlleable Signature
 
 
 An implementation of an unlinkable malleable signature to demonstrate the usability of the IMS construction proposed in the paper "Souha Masmoudi, Maryline Laurent: Privacy-Preserving Identity Management Systems based on an Unlinkable Malleable Signature".
